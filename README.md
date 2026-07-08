@@ -133,23 +133,16 @@
 
 </p>
 
----
-
-
-
-# 💭 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
 
 ---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b340597-6d0d-4122-8b31-0f6a4c8e3e69.gif" width="500">
+  <gif src="https://media1.tenor.com/m/p0kz7NOqxTkAAAAd/kaito-typing.gif" width="600"/>
 </p>
+
+<h3 align="center">
+Deploying on Friday builds character.
+</h3>
 ---
 
 <p align="center">
