@@ -64,25 +64,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=popeyepie1211&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=popeyepie1211&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 💻 LeetCode
 
